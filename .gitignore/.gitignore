@@ -1,0 +1,54 @@
+# yii console command
+
+# phpstorm project files
+.idea
+
+# netbeans project files
+nbproject
+
+# zend studio for eclipse project files
+.buildpath
+.project
+.settings
+
+# windows thumbnail cache
+Thumbs.db
+
+# Mac DS_Store Files
+.DS_Store
+frontend/web_mobile/js/.DS_Store
+
+/libs/config.php
+/libs/init.php
+/frontend/web/assets/
+/frontend/web/js_encrypt/
+/frontend/web/page/
+/frontend/web_mobile/assets/
+/backend/web/assets/
+/seller/web/assets/
+/store/web/assets/
+/api/web/assets/
+/weixin/web/assets/
+/frontend/runtime/
+/backend/runtime/
+/seller/runtime/
+/store/runtime/
+/api/runtime/
+/common/runtime/
+/console/runtime/
+/weixin/runtime/
+/static_encrypt/
+/images/
+.svn/
+tags
+/frontend/modules/te1st/
+/data/sqldata/*
+/backend/1/*
+/backend/18/*
+/backend/8/*
+/backend/9/*
+/backend/gallery/*
+/seller/web/data/*
+seller/web/data/qrcode/
+
+
